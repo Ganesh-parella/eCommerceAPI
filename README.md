@@ -19,7 +19,7 @@ A clean, modular E-Commerce Web API built using ASP.NET Core Web API and MySQL. 
 - RESTful API Design
 
 ## 📁 Folder Structure
-
+```
 📦 eCommerceAPI
 ├── Controllers
 ├── DTOs
@@ -27,7 +27,7 @@ A clean, modular E-Commerce Web API built using ASP.NET Core Web API and MySQL. 
 ├── Repositories
 ├── Services
 └── Program.cs
-
+```
 pgsql
 Copy
 Edit
@@ -59,14 +59,4 @@ Edit
 
 ---
 
-## ✅ Next Steps:
-- [ ] Add the README.md
-- [ ] Clean up the appsettings files
-- [ ] Remove the frontend git submodule if unnecessary
-- [ ] Push changes and let me know
 
-After that, I’ll help you:
-- 🧾 Write a bullet point for your resume about this project
-- 📢 Draft a LinkedIn post to showcase it
-
-You're doing awesome — let’s finish strong 💪
